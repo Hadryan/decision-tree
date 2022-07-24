@@ -1,0 +1,14 @@
+---
+:id: 114992245
+:submitters:
+- :name: Ariana Codjoe
+  :email: ariana_codjoe@brown.edu
+- :name: Lynda Umuhoza
+  :email: lynda_umuhoza@brown.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-03-04 04:02:02.620767000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-03-03 20:02:02.620767000 Z
+:status: processed
+:score: 74.0
